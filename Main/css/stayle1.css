@@ -1,6 +1,7 @@
 body{
     font-family: 'Vazirmatn', sans-serif !important;
     background-color: #2c3e50;
+    height: 10000vh;
 }
 
 /* start hi abolfazl */
@@ -27,3 +28,13 @@ body{
     line-height: 1em;
 }
 /* end hi abolfazl */
+
+
+/* start beugrafi */
+.css1box{
+    box-shadow: rgba(0, 17, 255, 0.836) 0px 24px 38px, rgb(255, 0, 0) 0px 15px 12px;
+    background-color: #3584d35e;
+    padding: 20px;
+    margin-top: 50px;
+}
+/* end beugrafi */
